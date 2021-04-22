@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\Capgemini\mod 3\.net\Sample Application\bin\Debug\Sample Application.exe.config
+C:\Users\LENOVO\Desktop\Capgemini\mod 3\.net\Sample Application\bin\Debug\Sample Application.exe
+C:\Users\LENOVO\Desktop\Capgemini\mod 3\.net\Sample Application\bin\Debug\Sample Application.pdb
+C:\Users\LENOVO\Desktop\Capgemini\mod 3\.net\Sample Application\obj\Debug\Sample Application.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Capgemini\mod 3\.net\Sample Application\obj\Debug\Sample Application.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Capgemini\mod 3\.net\Sample Application\obj\Debug\Sample Application.exe
+C:\Users\LENOVO\Desktop\Capgemini\mod 3\.net\Sample Application\obj\Debug\Sample Application.pdb
